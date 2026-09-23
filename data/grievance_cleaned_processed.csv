@@ -1,0 +1,125 @@
+entity,total_receipts,total_disposal,total_pending,pending_gt_1yr,pending_6_12m,pending_2_6m,pending_lt_2m,entity_type,disposal_rate_pct,pendency_rate_pct,chronic_pendency_pct
+Administrative Reforms and PG,1540,1497,43,0,0,1,42,Central Ministry/Department,97.21,2.79,0.0
+Agriculture and Cooperation,21317,20557,760,7,21,141,591,Central Ministry/Department,96.43,3.57,0.92
+Agriculture Research and Education,6535,6245,290,0,31,65,194,Central Ministry/Department,95.56,4.44,0.0
+"Animal Husbandry, Dairying",4835,4702,133,12,16,28,77,Central Ministry/Department,97.25,2.75,9.02
+Atomic Energy,5838,5279,559,346,73,59,81,Central Ministry/Department,90.42,9.58,61.9
+Ayush,9221,9003,218,0,9,76,133,Central Ministry/Department,97.64,2.36,0.0
+Bio Technology,959,906,53,19,11,10,13,Central Ministry/Department,94.47,5.53,35.85
+Central Board of Direct Taxes (Income Tax),140684,138030,2654,0,25,623,2006,Central Ministry/Department,98.11,1.89,0.0
+Central Board of Excise and Customs,64611,63682,929,1,4,66,858,Central Ministry/Department,98.56,1.44,0.11
+Chemicals and Petrochemicals,2100,2083,17,0,1,1,15,Central Ministry/Department,99.19,0.81,0.0
+Civil Aviation,22937,22419,518,6,38,175,299,Central Ministry/Department,97.74,2.26,1.16
+Coal,18391,17597,794,139,133,171,351,Central Ministry/Department,95.68,4.32,17.51
+Commerce,15401,15121,280,5,3,36,236,Central Ministry/Department,98.18,1.82,1.79
+Consumer Affairs,31680,30930,750,1,0,9,740,Central Ministry/Department,97.63,2.37,0.13
+Corporate Affairs,31700,30973,727,57,85,211,374,Central Ministry/Department,97.71,2.29,7.84
+Culture,7814,7318,496,41,105,146,204,Central Ministry/Department,93.65,6.35,8.27
+Defence,57343,54485,2858,113,453,947,1345,Central Ministry/Department,95.02,4.98,3.95
+Defence Finance,28350,27040,1310,0,12,188,1110,Central Ministry/Department,95.38,4.62,0.0
+Defence Production,9261,9179,82,0,0,1,81,Central Ministry/Department,99.11,0.89,0.0
+Defence Research and Development,3102,3088,14,0,0,0,14,Central Ministry/Department,99.55,0.45,0.0
+Development of North Eastern Region,1055,1037,18,1,4,5,8,Central Ministry/Department,98.29,1.71,5.56
+Drinking Water and Sanitation,9499,8958,541,36,195,93,217,Central Ministry/Department,94.3,5.7,6.65
+Earth Sciences,1904,1884,20,0,0,5,15,Central Ministry/Department,98.95,1.05,0.0
+Economic Affairs,16812,16653,159,6,4,46,103,Central Ministry/Department,99.05,0.95,3.77
+Electronics & Information Technology,24094,23549,545,6,6,64,469,Central Ministry/Department,97.74,2.26,1.1
+Empowerment of Persons with Disabilities,9384,9284,100,0,0,1,99,Central Ministry/Department,98.93,1.07,0.0
+"Environment, Forest and Climate Change",23927,23541,386,4,23,90,269,Central Ministry/Department,98.39,1.61,1.04
+Ex Servicemen Welfare,24320,24033,287,0,0,3,284,Central Ministry/Department,98.82,1.18,0.0
+Expenditure,12958,12910,48,0,0,1,47,Central Ministry/Department,99.63,0.37,0.0
+External Affairs,45391,44849,542,0,0,5,537,Central Ministry/Department,98.81,1.19,0.0
+Fertilizers,1883,1848,35,0,0,12,23,Central Ministry/Department,98.14,1.86,0.0
+Financial Services (Banking Division),391784,383904,7880,79,103,749,6949,Central Ministry/Department,97.99,2.01,1.0
+Financial Services (Insurance Division),43724,42733,991,10,1,58,922,Central Ministry/Department,97.73,2.27,1.01
+Financial Services (Pension Reforms),2302,2257,45,0,0,3,42,Central Ministry/Department,98.05,1.95,0.0
+Fisheries,77,71,6,0,0,0,6,Central Ministry/Department,92.21,7.79,0.0
+Food and Public Distribution,14439,14269,170,0,0,4,166,Central Ministry/Department,98.82,1.18,0.0
+Food Processing Industries,1928,1918,10,0,0,2,8,Central Ministry/Department,99.48,0.52,0.0
+Health & Family Welfare,82641,81522,1119,13,9,130,967,Central Ministry/Department,98.65,1.35,1.16
+Health Research,3486,3300,186,46,37,47,56,Central Ministry/Department,94.66,5.34,24.73
+Heavy Industry,5917,5864,53,0,0,0,53,Central Ministry/Department,99.1,0.9,0.0
+Higher Education,89600,87581,2019,15,13,357,1634,Central Ministry/Department,97.75,2.25,0.74
+Home Affairs,108289,100058,8231,1077,955,2448,3751,Central Ministry/Department,92.4,7.6,13.08
+Housing and Urban Affairs,47198,46074,1124,19,14,258,833,Central Ministry/Department,97.62,2.38,1.69
+Industrial Policy & Promotion,8058,8011,47,0,2,0,45,Central Ministry/Department,99.42,0.58,0.0
+Information and Broadcasting,30458,29826,632,1,15,191,425,Central Ministry/Department,97.93,2.07,0.16
+Investment & Public Asset Management,1698,1689,9,0,1,2,6,Central Ministry/Department,99.47,0.53,0.0
+Justice,35265,35003,262,2,0,6,254,Central Ministry/Department,99.26,0.74,0.76
+Labour and Employment,131406,130142,1264,17,7,28,1212,Central Ministry/Department,99.04,0.96,1.34
+Land Resources,2793,2651,142,0,2,53,87,Central Ministry/Department,94.92,5.08,0.0
+Legal Affairs,12075,9253,2822,1725,571,349,177,Central Ministry/Department,76.63,23.37,61.13
+Legislative Department,2615,2184,431,61,131,119,120,Central Ministry/Department,83.52,16.48,14.15
+Micro Small and Medium Enterprises,8736,8501,235,0,1,25,209,Central Ministry/Department,97.31,2.69,0.0
+Mines,4352,4078,274,64,38,77,95,Central Ministry/Department,93.7,6.3,23.36
+Minority Affairs,7280,6933,347,54,105,102,86,Central Ministry/Department,95.23,4.77,15.56
+New and Renewable Energy,3817,3782,35,0,0,3,32,Central Ministry/Department,99.08,0.92,0.0
+NITI Aayog,5640,5631,9,0,0,0,9,Central Ministry/Department,99.84,0.16,0.0
+O/o the Comptroller & Auditor General of India,12467,12255,212,1,2,77,132,Central Ministry/Department,98.3,1.7,0.47
+Official Language,1347,1331,16,0,3,6,7,Central Ministry/Department,98.81,1.19,0.0
+Panchayati Raj,5765,5695,70,0,0,5,65,Central Ministry/Department,98.79,1.21,0.0
+Parliamentary Affairs,3082,3077,5,0,0,1,4,Central Ministry/Department,99.84,0.16,0.0
+Personnel and Training,99373,98112,1261,176,140,279,666,Central Ministry/Department,98.73,1.27,13.96
+Petroleum and Natural Gas,66127,65448,679,5,1,8,665,Central Ministry/Department,98.97,1.03,0.74
+Pharmaceutical,6732,6671,61,1,8,6,46,Central Ministry/Department,99.09,0.91,1.64
+Posts,152602,150622,1980,128,15,117,1720,Central Ministry/Department,98.7,1.3,6.46
+Power,15571,15256,315,24,42,79,170,Central Ministry/Department,97.98,2.02,7.62
+Public Enterprises,3861,3851,10,0,0,0,10,Central Ministry/Department,99.74,0.26,0.0
+"Railways, ( Railway Board)",213382,208449,4933,376,335,1014,3208,Central Ministry/Department,97.69,2.31,7.62
+Revenue,94756,91178,3578,244,689,1312,1333,Central Ministry/Department,96.22,3.78,6.82
+Road Transport and Highways,42711,40516,2195,59,131,359,1646,Central Ministry/Department,94.86,5.14,2.69
+Rural Development,16699,15396,1303,157,224,355,567,Central Ministry/Department,92.2,7.8,12.05
+School Education and Literacy,63858,62222,1636,7,9,349,1271,Central Ministry/Department,97.44,2.56,0.43
+Science and Technology,7808,7702,106,0,3,23,80,Central Ministry/Department,98.64,1.36,0.0
+Scientific & Industrial Research,4434,4155,279,16,59,92,112,Central Ministry/Department,93.71,6.29,5.73
+Shipping,6570,6211,359,12,61,101,185,Central Ministry/Department,94.54,5.46,3.34
+Skill Development and Entrepreneurship,9492,9276,216,5,20,44,147,Central Ministry/Department,97.72,2.28,2.31
+Social Justice and Empowerment,17040,16097,943,424,230,141,148,Central Ministry/Department,94.47,5.53,44.96
+Space,2263,2007,256,12,17,29,198,Central Ministry/Department,88.69,11.31,4.69
+Sports,6909,6657,252,5,7,100,140,Central Ministry/Department,96.35,3.65,1.98
+Statistics and Programme Implementation,1870,1843,27,0,1,8,18,Central Ministry/Department,98.56,1.44,0.0
+Steel,6053,6004,49,0,0,1,48,Central Ministry/Department,99.19,0.81,0.0
+Telecommunications,261387,258562,2825,16,26,360,2423,Central Ministry/Department,98.92,1.08,0.57
+Textiles,5606,5459,147,0,0,10,137,Central Ministry/Department,97.38,2.62,0.0
+Tourism,4717,4693,24,0,0,1,23,Central Ministry/Department,99.49,0.51,0.0
+Tribal Affairs,3778,3633,145,0,3,11,131,Central Ministry/Department,96.16,3.84,0.0
+Unique Identification Authority of India,39124,38583,541,0,0,18,523,Central Ministry/Department,98.62,1.38,0.0
+"Water Resources, River Development & Ganga Rejuvenuation",15421,14627,794,35,27,329,403,Central Ministry/Department,94.85,5.15,4.41
+Women and Child Development,16426,16256,170,0,1,6,163,Central Ministry/Department,98.97,1.03,0.0
+Youth Affairs,3727,3623,104,3,15,33,53,Central Ministry/Department,97.21,2.79,2.88
+NCT of Delhi,100682,86609,14073,2760,1775,3948,5590,State/UT,86.02,13.98,19.61
+Andaman & Nicobar,1884,1795,89,0,0,20,69,State/UT,95.28,4.72,0.0
+Andhra Pradesh,26978,568,26410,21706,2079,1656,969,State/UT,2.11,97.89,82.19
+Arunachal Pradesh,1498,1008,490,169,150,78,93,State/UT,67.29,32.71,34.49
+Assam,30207,3129,27078,19996,2673,2921,1488,State/UT,10.36,89.64,73.85
+Bihar,86518,25232,61286,34487,9484,9889,7426,State/UT,29.16,70.84,56.27
+Union Territory of Chandigarh,9368,9039,329,1,54,109,165,State/UT,96.49,3.51,0.3
+Chattisgarh,36916,31180,5736,3194,760,867,915,State/UT,84.46,15.54,55.68
+Union Territory of Dadra & Nagar Haveli,996,788,208,0,0,12,196,State/UT,79.12,20.88,0.0
+Union Territory of Daman & Diu,783,765,18,0,0,1,17,State/UT,97.7,2.3,0.0
+Gujarat,90189,80279,9910,536,1425,2703,5246,State/UT,89.01,10.99,5.41
+Goa,4445,2880,1565,1008,183,224,150,State/UT,64.79,35.21,64.41
+Himachal Pradesh,18727,232,18495,13312,1917,2026,1240,State/UT,1.24,98.76,71.98
+Haryana,102805,56415,46390,29701,4784,6415,5490,State/UT,54.88,45.12,64.02
+Jharkhand,41484,14688,26796,15095,4916,4213,2572,State/UT,35.41,64.59,56.33
+Jammu and Kashmir,14243,302,13941,10487,1507,1362,585,State/UT,2.12,97.88,75.22
+Kerala,28827,3139,25688,19124,2795,2344,1425,State/UT,10.89,89.11,74.45
+Karnataka,71031,32435,38596,16943,7426,8729,5498,State/UT,45.66,54.34,43.9
+Union Territory of Lakshadweep,306,297,9,0,0,1,8,State/UT,97.06,2.94,0.0
+Meghalaya,1618,149,1469,1197,82,99,91,State/UT,9.21,90.79,81.48
+Maharashtra,163036,50735,112301,66397,18278,15758,11868,State/UT,31.12,68.88,59.12
+Manipur,1624,37,1587,1326,99,90,72,State/UT,2.28,97.72,83.55
+Madhya Pradesh,111124,13255,97869,69957,9897,10745,7270,State/UT,11.93,88.07,71.48
+Mizoram,502,20,482,381,28,30,43,State/UT,3.98,96.02,79.05
+Nagaland,626,374,252,152,20,31,49,State/UT,59.74,40.26,60.32
+Odisha,29417,1640,27777,21742,2515,2177,1343,State/UT,5.58,94.42,78.27
+Punjab,37833,21678,16155,7416,3124,3488,2127,State/UT,57.3,42.7,45.91
+Puducherry,2581,1998,583,117,111,181,174,State/UT,77.41,22.59,20.07
+Rajasthan,133956,22441,111515,97928,2087,3987,7513,State/UT,16.75,83.25,87.82
+Sikkim,725,19,706,572,46,52,36,State/UT,2.62,97.38,81.02
+Telangana,26874,20058,6816,5463,135,219,999,State/UT,74.64,25.36,80.15
+Tamil Nadu,54707,31368,23339,12079,3997,4116,3147,State/UT,57.34,42.66,51.75
+Tripura,2874,2344,530,258,75,90,107,State/UT,81.56,18.44,48.68
+Uttarakhand,41264,2418,38846,27303,4560,4466,2517,State/UT,5.86,94.14,70.29
+Uttar Pradesh,547042,437024,110018,64002,2209,6001,37806,State/UT,79.89,20.11,58.17
+West Bengal,44515,1035,43480,29074,5579,5625,3202,State/UT,2.33,97.67,66.87
